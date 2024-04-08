@@ -177,7 +177,7 @@ export function SideBar(props: { className?: string }) {
           Yo AI Chat
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Powered by Google Gemini Pro
+        Powered by state of art AI engines
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
